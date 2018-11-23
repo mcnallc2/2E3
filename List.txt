@@ -1,0 +1,73 @@
+fresh_food
+fruit
+apples 10_JAN 0.35 10
+oranges 11_OCT 0.45 15
+bananas 12_JUL 0.55 20
+plums 14_DEC 0.65 34
+XXX
+vegtables
+tomatoes 11_FEB 0.35 11  
+carrots 12_NOV 0.45 22
+peppers 13_AUG 0.55 55
+peas 14_DEC 0.65 92
+cabbage 15_JAN 1.05 54 
+XXX
+meat
+pork 12_MAR 4.67 12 
+beef 13_DEC 5.23 15  
+chicken 14_SEP 6.11 22
+lamb 15_DEC 7.99 12
+XXX
+dairy
+milk 12_MAR 1.67 12 
+yogurt 13_DEC 2.23 15  
+cheese 14_SEP 2.11 22
+fresh_cream 15_DEC 4.99 12
+XXX
+XXX
+bakery
+bread
+brown_bread 13_APR 2.45 10  
+white_bread 14_JAN 3.00 15 
+rolls 15_OCT 4.55 20
+multi_grain 16_SEP 3.99 7
+XXX
+pastries 
+croissants 13_JAN 1.05 36
+apple_tarts 14_MAY 2.45 10 
+rhubard_tarts 15_FEB 3.00 15 
+chocolate_brownies 16_NOV 4.55 20
+XXX
+donuts
+choclate_donuts 15_JUN 2.45 10  
+jam_donuts 16_MAR 3.00 15 
+plain_donuts 17_DEC 4.55 20
+XXX
+XXX
+drinks
+water
+still_water 12_MAR 1.50 50
+sparkling_water 13_JUN 3.00 30
+flavoured_water 14_DEC 2.99 40
+XXX
+coffee 
+instant_coffee 17_APR 3.00 15 
+cappuccino 18_JAN 4.55 20
+espresso 18_JAN 4.55 20
+XXX
+soft_Drinks
+coke 17_AUG 2.45 10    
+sprite 18_MAY 3.00 15 
+fanta 19_FEB 4.55 20
+dr_pepper 20_DEC 2.50 21
+XXX
+alcohol
+beer 18_SEP 2.45 10 
+red_wine 19_JUN 11.00 15
+white_wine 21_JAN 10.33 17
+vodka 25_SEP 20.50 18
+rum 20_MAR 25.55 20
+whiskey 22_OCT 30.00 40
+XXX
+XXX
+XXX
