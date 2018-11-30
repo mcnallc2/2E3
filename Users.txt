@@ -1,6 +1,0 @@
-conor meath 1 40
-kate tyrone 2 50
-sean down 3 60
-john louth 4 70
-jack cork 5 80
-XXX
